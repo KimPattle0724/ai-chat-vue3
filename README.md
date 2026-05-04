@@ -1,3 +1,4 @@
+<!-- TRANSLATION_DISALLOWED -->
 # AI 心理助手
 
 基于 Vue3 的 AI 心理健康平台前端，支持用户与 AI 进行多轮流式对话。
@@ -19,7 +20,7 @@
 
 ## 运行
 
-```bash
+```bash   ”“bash
 # 安装依赖
 npm install
 
@@ -32,7 +33,7 @@ npm run build   NPM运行构建
 ## 截图
 
 ### 首页
-![首页](./screenshots/home.png)
+![首页](./screenshots/home.png   /截图/ home.png)
 
 
 ### AI对话
