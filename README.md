@@ -33,7 +33,7 @@ npm run build   NPM运行构建
 ## 截图
 
 ### 首页
-![首页](./screenshots/home.png   /截图/ home.png)
+![首页](./screenshots/home.png)
 
 
 ### AI对话
