@@ -31,11 +31,9 @@ npm run build   NPM运行构建
 ```
 ## 截图
 ### 首页
-<img width   宽度="2560" height="1600" alt="屏幕截图 2026-05-04 200137" src="https://github.com/user-attachments/assets/d73fb756-043a-40c9-be75-ec892c343b4c" />   <img width   宽度="2560" height="1600" alt="屏幕截图 2026-05-04 200137" src="https://github.com/user-attachments/assets/d73fb756-043a-40c9-be75-ec892c343b4c" />
-
+<img width   宽度="2560" height="1600" alt="屏幕截图 2026-05-04 200137" src="https://github.com/user-attachments/assets/d73fb756-043a-40c9-be75-ec892c343b4c" />   <img width   宽度="2560" height="1600" alt="屏幕截图 2026-05-04 200137" src="https://github.com/user-attachments/assets/d73fb756-043a-40c9-be75-ec892c343b4c" /><img width   宽度="2560" height="1600" alt="屏幕截图 2026-05-04 200137" src="https://github.com/user-attachments/assets/d73fb756-043a-40c9-be75-ec892c343b4c" />   <img width   宽度="2560" height="1600" alt="屏幕截图 2026-05-04 200137" src="https://github.com/user-attachments/assets/d73fb756-043a-40c9-be75-ec892c343b4c" />
 ### AI对话
-<img width   宽度="2560" height="1600" alt="屏幕截图 2026-05-04 200153" src="https://github.com/user-attachments/assets/ac8d84d0-23f7-432e-8ad9-3250464f1976" /><img width   宽度="2560" height="1600" alt="屏幕截图 2026-05-04 200153" src="https://github.com/user-attachments/assets/ac8d84d0-23f7-432e-8ad9-3250464f1976" />
-
+<img width   宽度="2560" height="1600" alt="屏幕截图 2026-05-04 200153" src="https://github.com/user-attachments/assets/ac8d84d0-23f7-432e-8ad9-3250464f1976" /><img width   宽度="2560" height="1600" alt="屏幕截图 2026-05-04 200153" src="https://github.com/user-attachments/assets/ac8d84d0-23f7-432e-8ad9-3250464f1976" /><img width   宽度="2560" height="1600" alt="屏幕截图 2026-05-04 200153" src="https://github.com/user-attachments/assets/ac8d84d0-23f7-432e-8ad9-3250464f1976" /><img width   宽度="2560" height="1600" alt="屏幕截图 2026-05-04 200153" src="https://github.com/user-attachments/assets/ac8d84d0-23f7-432e-8ad9-3250464f1976" />
 ### 后台详情
 <img width="2560" height="1600" alt="屏幕截图 2026-05-04 200208" src="https://github.com/user-attachments/assets/4dfda7f7-ecf0-4a34-9b92-57f518874824" />   <img width   宽度="2560" height="1600" alt="屏幕截图 2026-05-04 200208" src="https://github.com/user-attachments/assets/4dfda7f7-ecf0-4a34-9b92-57f518874824" />
 
