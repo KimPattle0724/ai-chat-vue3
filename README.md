@@ -1,5 +1,43 @@
-# Vue 3 + Vite
+# AI 心理助手
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+基于 Vue3 的 AI 心理健康平台前端，支持用户与 AI 进行多轮流式对话。
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+## 在线演示
+
+https://你的链接.vercel.app
+
+## 技术栈
+
+- Vue 3 + Vite
+- Pinia + Vue Router
+- Element Plus
+- @microsoft/fetch-event-source
+- Axios
+
+## 功能
+
+- AI 流式对话（SSE）
+- 消息状态管理（发送中/接收中/异常）
+- 用户登录与状态持久化
+- 文章列表分页与懒加载
+
+## 运行
+
+```bash
+# 安装依赖
+npm install
+
+# 开发
+npm run dev
+
+# 构建
+npm run build
+
+## 截图
+### 首页
+<img width="2560" height="1600" alt="屏幕截图 2026-05-04 200137" src="https://github.com/user-attachments/assets/d73fb756-043a-40c9-be75-ec892c343b4c" />
+### AI对话
+<img width="2560" height="1600" alt="屏幕截图 2026-05-04 200153" src="https://github.com/user-attachments/assets/ac8d84d0-23f7-432e-8ad9-3250464f1976" />![Uploading 屏幕截图 2026-05-04 200153.png…]()
+### 后台详情
+<img width="2560" height="1600" alt="屏幕截图 2026-05-04 200208" src="https://github.com/user-attachments/assets/4dfda7f7-ecf0-4a34-9b92-57f518874824" />
+
