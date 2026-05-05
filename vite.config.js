@@ -4,7 +4,7 @@ import { resolve } from 'path'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/ai-chat-vue3-public/',
+  base: './',
   plugins: [vue()],
   resolve: {
     alias: {
