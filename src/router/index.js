@@ -1,4 +1,4 @@
-import { createRouter, createWebHistory } from 'vue-router'
+import { createRouter, createWebHashHistory } from 'vue-router'
 import BackendLayout from '@/components/BackendLayout.vue'
 import FrontendLayout from '../components/FrontendLayout.vue'
 
@@ -86,7 +86,7 @@ const frontendRoutes = [
 ]
 
 const router = createRouter({
-    history: createWebHistory(),
+    history: createWebHashHistory(),
     routes: [
         ...backendRoutes,
         ...frontendRoutes
